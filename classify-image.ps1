@@ -1,5 +1,5 @@
-$predictionUrl="YOUR_PREDICTION_URL"
-$predictionKey = "YOUR_PREDICTION_KEY"
+$predictionUrl="https://westeurope.api.cognitive.microsoft.com/customvision/v3.0/Prediction/45e71b10-f96b-4840-aebd-256cfad1531b/classify/iterations/Iteration1/url"
+$predictionKey = "226c825a07cc4fd0b4519729de7b8a5e"
 
 
 # Code to call Custom Vision service for image classification

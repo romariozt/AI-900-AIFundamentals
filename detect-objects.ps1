@@ -1,5 +1,5 @@
-$predictionUrl="YOUR_PREDICTION_URL"
-$predictionKey = "YOUR_PREDITION_KEY"
+$predictionUrl="https://westeurope.api.cognitive.microsoft.com/customvision/v3.0/Prediction/3282e75b-2d0b-4716-95b2-ecac27325a4c/detect/iterations/Iteration1/url"
+$predictionKey = "226c825a07cc4fd0b4519729de7b8a5e"
 
 
 # Code to call Custom Vision service for object detection
